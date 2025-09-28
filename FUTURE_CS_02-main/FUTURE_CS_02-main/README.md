@@ -2,7 +2,7 @@ FUTURE_CS_02
 📌 Cyber Security Internship - Task 2 (SOC Investigation using Splunk)
 👤 Author
 
-Nikhil Kumar Yadav
+
 
 📖 Overview
 
